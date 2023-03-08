@@ -20,6 +20,11 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
+https://ezgif.com/video-to-gif/ezgif-5-78a03ece75.webm
+
+toot used to make GIF: https://ezgif.com
+
+
  
 
 
